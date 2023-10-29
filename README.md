@@ -1,10 +1,10 @@
-# guess-my-number
+# Number Guessing Game
 
 This project was built using HTML, CSS, and JS. It allows the user to choose (or guess) any number between 1 to 20 and check that number with a randomly generated number by the program.
 
 ## Table of Contents
 
-- [guess-my-number](#project-name)
+- [Number Guessing Game](#project-name)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
